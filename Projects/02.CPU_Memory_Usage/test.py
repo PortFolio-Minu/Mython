@@ -15,7 +15,7 @@ def _check_usage_of_cpu_and_memory():
         print("cpu usage\t\t:", cpu_usage, "%")
         print("memory usage\t\t:", memory_usage, "%")
 
-
+        print("Test")
         time.sleep(2)
 
 if __name__ == "__main__":
